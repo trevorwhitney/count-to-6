@@ -1,0 +1,23 @@
+{
+  "name": "count-to-6-excercies",
+  "version": "1.0.0",
+  "description": "",
+  "main": "program.js",
+  "dependencies": {},
+  "devDependencies": {
+    "count-to-6": "^0.7.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trevorwhitney/count-to-6.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trevorwhitney/count-to-6/issues"
+  },
+  "homepage": "https://github.com/trevorwhitney/count-to-6#readme"
+}
